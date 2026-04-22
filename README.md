@@ -35,8 +35,6 @@ Hi there! I am **Terenauss** - a Security Researcher focused on Smart Contract a
 
 | Project | Vulnerability | Severity | Notes / PoC |
 | :--- | :--- | :--- | :--- |
-| **Lido** | Stale Price (Chainlink) | Low/Med | [View Notes](./notes/lido-stale-price.md) |
-| **Protocol X** | Logic Error in Rewards | High | [View PoC](./poc/logic-error-poc.sol) |
 
 ---
 
