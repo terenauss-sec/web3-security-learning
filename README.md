@@ -1,6 +1,6 @@
 # web3-security-learning
 
-Hi there! I am a Security Researcher focused on Smart Contract auditing and decentralized protocol security. This repository serves as my "learning log," containing my CTF solutions, audit reports, and security research notes.
+Hi there! I am Terenauss - a Security Researcher focused on Smart Contract auditing and decentralized protocol security. This repository serves as my "learning log," containing my CTF solutions, audit reports, and security research notes.
 
 ## 🚀 Current Status
 - **Learning Path:** [Cyfrin Updraft](https://cyfrin.io) (Smart Contract Security Researcher Track)
